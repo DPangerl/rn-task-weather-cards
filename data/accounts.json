@@ -1,0 +1,17 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "email": "test@test.de",
+      "password_hash": "$2b$10$gQCmF.dQVq.u8TW9ING47e5tnuyjw0rGTIegHjNCm0u12L8w/vYju",
+      "created_at": "2025-10-04T05:38:38.127Z"
+    },
+    {
+      "id": 2,
+      "email": "test2@test.de",
+      "password_hash": "$2b$10$AKV.bRjcweQgRMdIfM2dwegtnwUEZ2X0pKhOtF/lna4NJ5t2pSg7q",
+      "created_at": "2025-10-05T10:54:42.817Z"
+    }
+  ],
+  "nextId": 3
+}
