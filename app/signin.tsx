@@ -38,8 +38,8 @@ export default function SignInPage() {
     formState: { errors },
   } = useForm<SignInFormData>({
     defaultValues: {
-      email: "test@test.de",
-      password: "test1234",
+      email: "",
+      password: "",
     },
   });
 

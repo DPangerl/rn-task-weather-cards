@@ -39,8 +39,8 @@ export default function SignUpPage() {
     formState: { errors },
   } = useForm<SignUpFormData>({
     defaultValues: {
-      email: "test@test.de",
-      password: "test1234",
+      email: "",
+      password: "",
     },
   });
 
